@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		BBE4E65C2FA7695A003B428E /* eatoast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = eatoast.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BBE4E65C2FA7695A003B428E /* eatoast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = eatoast.app; path = "/Users/114-2workshop13/Documents/eatoast/build/Debug-iphoneos/eatoast.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				BBE4E65E2FA7695A003B428E /* eatoast */,
-				BBE4E65D2FA7695A003B428E /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		BBE4E65D2FA7695A003B428E /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				BBE4E65C2FA7695A003B428E /* eatoast.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = BBE4E6532FA7695A003B428E;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = BBE4E65D2FA7695A003B428E /* Products */;
+			productRefGroup = BBE4E6532FA7695A003B428E;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
